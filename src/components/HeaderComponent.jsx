@@ -4,7 +4,7 @@ import nav2 from '../assets/Nav2.svg'
 import nav3 from '../assets/Nav3.svg'
 import nav4 from '../assets/Nav4.svg'
 import avatar from '../assets/avatar.png'
-import logo from '../assets/logo.svg'
+import logo from '../assets/Logo.svg'
 
 
 const HeaderComponent = () => {
